@@ -1,3 +1,4 @@
+{*Programa em Pascal*}
 program hello;
 
 Begin
